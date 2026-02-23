@@ -15,7 +15,7 @@ This repository contains the complete set of practical implementations for my B.
 
 1. **Version Control System:** Install Git and setup GitHub account. ✅
 2. **Git Operations:** Perform local and remote repository operations using Cheat-Sheet.✅
-3. **Continuous Integration:** Install and configure Jenkins with Maven/Ant/Gradle.
+3. **Continuous Integration:** Install and configure Jenkins with Maven/Ant/Gradle.✅
 4. **Jenkins Pipeline:** Build a pipeline script to test and deploy an app to Tomcat server.
 5. **Jenkins Architecture:** Implement Master-Slave Architecture using slave nodes.
 6. **Testing in CI:** Setup and run Selenium Tests in Jenkins using Maven.
